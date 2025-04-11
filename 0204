@@ -1,0 +1,29 @@
+<!DOCTYPE html> 
+
+<html lang="pt-br">
+
+    <head>
+
+        <meta charset="utf-8 ">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>VIVA!</title>
+
+    </head>
+
+    <body>
+        
+        <img src= "logoifal.png" width="200" height= "60">
+        <h1>Bem vindo a página de recuperação de mente</h1>
+
+        <h2>Eixo tecnológico</h2>
+        <p> Informações e comunicação </p>
+
+        <h2>Ementa</h2>
+        <li> blablabla </li>
+        <li> blablabla </li>
+        <li> blablabla </li>
+        <li> blablabla </li>
+
+        
+    </body>
+</html> 
